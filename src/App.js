@@ -4,11 +4,7 @@ import { useEffect } from "react";
 
 import { useDispatch } from "react-redux";
 
-// import {
-//   onAuthStateChangedListener,
-//   createUserDocumentFromAuth,
-//   getCurrentUser
-// } from './utils/firebase/firebase.utils';
+
 
 import Home from "./routes/home/home.component";
 import Navigation from "./routes/navigation/navigation.component";
