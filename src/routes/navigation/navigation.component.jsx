@@ -10,7 +10,7 @@ import { selectIsCartOpen } from '../../store/cart/cart.selector';
 import { signOutStart } from "../../store/user/user.action";
 
 
-// import { CartContext } from "../../contexts/cart.context";
+
 
 // import { signOutUser } from "../../utils/firebase/firebase.utils";
 
