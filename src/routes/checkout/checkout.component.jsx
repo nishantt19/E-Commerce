@@ -5,7 +5,7 @@ import {
   selectCartTotal,
 } from '../../store/cart/cart.selector';
 
-// import { useContext } from 'react';
+
 
 // import { CartContext } from '../../contexts/cart.context';
 
