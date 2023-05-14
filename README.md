@@ -11,7 +11,7 @@ Shopease is an e-commerce website that allows users to browse and purchase cloth
 ## Getting Started
 To get started with Shopease, follow these steps:
 
-* Clone the repository: git clone https://github.com/your-username/shopease.git
+* Clone the repository: git clone https://github.com/nishantt19/e-commerce.git
 * Install dependencies: npm install
 * Create a Firebase account and set up a project
 * Copy the Firebase configuration details into a .env file at the root of the project
